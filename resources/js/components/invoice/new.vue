@@ -9,7 +9,6 @@ import router from "../../router";
     let item = ref([]);
     let listCart = ref([]);
     let listproducts = ref([]);
-
     const showModal = ref(false)
     const hideModel = ref(true)
 
